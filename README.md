@@ -19,3 +19,11 @@ through ESP-NOW broadcasting.
 # The User Interface
 <img width="1890" height="982" alt="image" src="https://github.com/user-attachments/assets/f80a4f76-3485-4176-9afc-e52ea9d1f713" />
 
+The UI contains:
+- the name of the project
+- the connections status with the Lolin
+- the Moving Average value of the last 5 readings
+- the actual reading of the sensor
+- the current threshold
+- a button to change the threshold
+The range from 0-100 was mapped from the values given by the photoresistor in the range of 1023-0.
