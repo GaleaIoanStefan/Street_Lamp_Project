@@ -15,3 +15,7 @@ through ESP-NOW broadcasting.
 # The circuit layout
 
 <img width="2000" height="1058" alt="WhatsApp Image 2026-04-30 at 13 10 54" src="https://github.com/user-attachments/assets/e3b0458f-8029-492f-b694-66344052879a" />
+
+# The User Interface
+<img width="1890" height="982" alt="image" src="https://github.com/user-attachments/assets/f80a4f76-3485-4176-9afc-e52ea9d1f713" />
+
