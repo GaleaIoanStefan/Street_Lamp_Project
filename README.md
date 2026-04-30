@@ -26,4 +26,5 @@ The UI contains:
 - the actual reading of the sensor
 - the current threshold
 - a button to change the threshold
+
 The range from 0-100 was mapped from the values given by the photoresistor in the range of 1023-0.
